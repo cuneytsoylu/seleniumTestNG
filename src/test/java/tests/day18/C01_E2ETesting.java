@@ -20,7 +20,7 @@ public class C01_E2ETesting {
         //    b. Password : Manager1!
         // 5. Login butonuna tiklayin.
         HotelMyCampPage hotelMyCampPage=new HotelMyCampPage();
-        hotelMyCampPage.girisyap();
+        hotelMyCampPage.girisYap();
         // 6. Hotel Management/Hotel List menusunden ADD HOTEL butonuna tiklayin
         hotelMyCampPage.bekle(3);
         hotelMyCampPage.hotelManagementLinki.click();

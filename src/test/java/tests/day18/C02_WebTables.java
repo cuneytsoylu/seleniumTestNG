@@ -34,7 +34,7 @@ public class C02_WebTables {
         //                    - Ussername : manager
         //                    - Password : Manager1!
         hotelMyCampPage =new HotelMyCampPage();
-        hotelMyCampPage.girisyap();
+        hotelMyCampPage.girisYap();
     }
 
     @Test(dependsOnMethods = "loginT")
@@ -65,17 +65,17 @@ public class C02_WebTables {
     @Test(dependsOnMethods = "loginT")
     public void printRows() {
         // -printRows() methodu olusturun //tr
-        //                    - Table body'sinde bulunan toplam satir(row) sayisini bulun.
+        //  - Table body'sinde bulunan toplam satir(row) sayisini bulun.
         //     //tbody//tr
         hmcWebTablePage=new HMCWebTablePage();
         System.out.println(hmcWebTablePage.satirlarListesi.size());
 
-        //                    - Table body'sinde bulunan toplam satirlari(rows) konsolda yazdirin.
+        //- Table body'sinde bulunan toplam satirlari(rows) konsolda yazdirin.
         List<WebElement> satirlarWebelementListesi=hmcWebTablePage.satirlarListesi;
         for (WebElement each:satirlarWebelementListesi) {
             System.out.println(each.getText());
         }
-        //                    - 4.satirdaki(row) elementlerini konsolda yazdirin.
+        // - 4.satirdaki(row) elementlerini konsolda yazdirin.
         System.out.println("4.satirdaki(row) elementleri==> "+satirlarWebelementListesi.get(3).getText());
 
     }

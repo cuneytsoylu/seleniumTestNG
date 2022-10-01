@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8d066ad-805c-4765-ad64-97df27a3dfe7" name="Changes" comment="" />
+    <list default="true" id="d8d066ad-805c-4765-ad64-97df27a3dfe7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DemoqaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/ulkeler.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day19/C01_WebtableDinamicLocate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day19/C02_WebtableDemoqa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C01_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C02_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C03_ReusableRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/ReusableMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HotelMyCampPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HotelMyCampPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day18/C01_E2ETesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day18/C01_E2ETesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day18/C02_WebTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day18/C02_WebTables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/HotelMyCampPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/HotelMyCampPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day18/C01_E2ETesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day18/C01_E2ETesting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day18/C02_WebTables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day18/C02_WebTables.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,32 +35,43 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FLp5Lfd4N5I2cQpgZx1X1mMnUC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/test/java/resources",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="TestNG.C02_WebTables">
-    <configuration name="C01_E2ETesting" type="TestNG" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ramazan\IdeaProjects\com.Batch81POM\src\test\java\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C03_ReusableRunner">
+    <configuration name="C01_WebtableDinamicLocate" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch81POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day18.*" />
+          <option name="PATTERN" value="tests.day19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day18" />
-      <option name="MAIN_CLASS_NAME" value="tests.day18.C01_E2ETesting" />
+      <option name="PACKAGE_NAME" value="tests.day19" />
+      <option name="MAIN_CLASS_NAME" value="tests.day19.C01_WebtableDinamicLocate" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -50,34 +79,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_WebTables" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_WebtableDinamicLocate.hucreGetirTesti" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch81POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day18.*" />
+          <option name="PATTERN" value="tests.day19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day18" />
-      <option name="MAIN_CLASS_NAME" value="tests.day18.C02_WebTables" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_WebTables.loginT" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch81POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day18" />
-      <option name="MAIN_CLASS_NAME" value="tests.day18.C02_WebTables" />
-      <option name="METHOD_NAME" value="loginT" />
+      <option name="PACKAGE_NAME" value="tests.day19" />
+      <option name="MAIN_CLASS_NAME" value="tests.day19.C01_WebtableDinamicLocate" />
+      <option name="METHOD_NAME" value="hucreGetirTesti" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -85,17 +97,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_WebTables.table" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_WebtableDinamicLocate.sutunYazdirTesti" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch81POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day18.*" />
+          <option name="PATTERN" value="tests.day19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day18" />
-      <option name="MAIN_CLASS_NAME" value="tests.day18.C02_WebTables" />
-      <option name="METHOD_NAME" value="table" />
+      <option name="PACKAGE_NAME" value="tests.day19" />
+      <option name="MAIN_CLASS_NAME" value="tests.day19.C01_WebtableDinamicLocate" />
+      <option name="METHOD_NAME" value="sutunYazdirTesti" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -103,16 +115,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NegativeLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_WebtableDemoqa.demoqaTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch81POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.smokeTest.*" />
+          <option name="PATTERN" value="tests.day19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.smokeTest" />
-      <option name="MAIN_CLASS_NAME" value="tests.smokeTest.NegativeLoginTest" />
+      <option name="PACKAGE_NAME" value="tests.day19" />
+      <option name="MAIN_CLASS_NAME" value="tests.day19.C02_WebtableDemoqa" />
+      <option name="METHOD_NAME" value="demoqaTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_ReusableRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch81POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day20" />
+      <option name="MAIN_CLASS_NAME" value="tests.day20.C03_ReusableRunner" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -122,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C02_WebTables" />
-        <item itemvalue="TestNG.C02_WebTables.table" />
-        <item itemvalue="TestNG.C01_E2ETesting" />
-        <item itemvalue="TestNG.C02_WebTables.loginT" />
-        <item itemvalue="TestNG.NegativeLoginTest" />
+        <item itemvalue="TestNG.C03_ReusableRunner" />
+        <item itemvalue="TestNG.C02_WebtableDemoqa.demoqaTest" />
+        <item itemvalue="TestNG.C01_WebtableDinamicLocate.sutunYazdirTesti" />
+        <item itemvalue="TestNG.C01_WebtableDinamicLocate.hucreGetirTesti" />
+        <item itemvalue="TestNG.C01_WebtableDinamicLocate" />
       </list>
     </recent_temporary>
   </component>
@@ -140,5 +170,16 @@
       <updated>1664281035493</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
