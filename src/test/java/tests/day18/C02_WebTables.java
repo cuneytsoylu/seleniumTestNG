@@ -77,7 +77,7 @@ public class C02_WebTables {
         }
         // - 4.satirdaki(row) elementlerini konsolda yazdirin.
         System.out.println("4.satirdaki(row) elementleri==> "+satirlarWebelementListesi.get(3).getText());
-
+Driver.closeDriver();
     }
 
 }

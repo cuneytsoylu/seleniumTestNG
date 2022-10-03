@@ -4,23 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8d066ad-805c-4765-ad64-97df27a3dfe7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DemoqaPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/ulkeler.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day19/C01_WebtableDinamicLocate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day19/C02_WebtableDemoqa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C01_ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C02_ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C03_ReusableRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/ReusableMethods.java" afterDir="false" />
+    <list default="true" id="d8d066ad-805c-4765-ad64-97df27a3dfe7" name="Changes" comment="01/10/2022">
+      <change afterPath="$PROJECT_DIR$/src/belirlenenGruplariCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belirlenenPackageleriCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belirlenenclasslariçaliştirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belirliTestMethodlariniCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C04_SatirSayisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C05_ExceliMapeYukleme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C06_WriteExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day21/C01_WindowHandleReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tumPacageleriCalistirma.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HotelMyCampPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HotelMyCampPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day18/C01_E2ETesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day18/C01_E2ETesting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/day18/C02_WebTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day18/C02_WebTables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/HotelMyCampPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/HotelMyCampPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day18/C01_E2ETesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day18/C01_E2ETesting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20/C03_ReusableRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C03_ReusableRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day20/ReusableMethodsExcel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day18/C02_WebTables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day18/C02_WebTables.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,31 +45,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/test/java/resources",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/test/java/resources&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ramazan\IdeaProjects\com.Batch81POM\src\test\java\resources" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ramazan\IdeaProjects\com.Batch81POM\src" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.C03_ReusableRunner">
-    <configuration name="C01_WebtableDinamicLocate" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C01_WindowHandleReusableMethods">
+    <configuration name="C01_WindowHandleReusableMethods" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch81POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day19.*" />
+          <option name="PATTERN" value="tests.day21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day19" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19.C01_WebtableDinamicLocate" />
+      <option name="PACKAGE_NAME" value="tests.day21" />
+      <option name="MAIN_CLASS_NAME" value="tests.day21.C01_WindowHandleReusableMethods" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -79,61 +80,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_WebtableDinamicLocate.hucreGetirTesti" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch81POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day19" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19.C01_WebtableDinamicLocate" />
-      <option name="METHOD_NAME" value="hucreGetirTesti" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_WebtableDinamicLocate.sutunYazdirTesti" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch81POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day19" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19.C01_WebtableDinamicLocate" />
-      <option name="METHOD_NAME" value="sutunYazdirTesti" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_WebtableDemoqa.demoqaTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch81POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day19" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19.C02_WebtableDemoqa" />
-      <option name="METHOD_NAME" value="demoqaTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_ReusableRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_ExceliMapeYukleme" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch81POM" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +89,38 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.day20" />
-      <option name="MAIN_CLASS_NAME" value="tests.day20.C03_ReusableRunner" />
+      <option name="MAIN_CLASS_NAME" value="tests.day20.C05_ExceliMapeYukleme" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Ramazan/IdeaProjects/com.Batch81POM/belirlenenclasslariçaliştirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch81POM" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/belirlenenclasslariçaliştirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/belirlenenPackageleriCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch81POM" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirlenenPackageleriCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/belirliTestMethodlariniCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch81POM" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirliTestMethodlariniCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -152,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C03_ReusableRunner" />
-        <item itemvalue="TestNG.C02_WebtableDemoqa.demoqaTest" />
-        <item itemvalue="TestNG.C01_WebtableDinamicLocate.sutunYazdirTesti" />
-        <item itemvalue="TestNG.C01_WebtableDinamicLocate.hucreGetirTesti" />
-        <item itemvalue="TestNG.C01_WebtableDinamicLocate" />
+        <item itemvalue="TestNG.C01_WindowHandleReusableMethods" />
+        <item itemvalue="TestNG.C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/belirliTestMethodlariniCalistirma.xml" />
+        <item itemvalue="TestNG.C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/belirlenenPackageleriCalistirma.xml" />
+        <item itemvalue="TestNG.C:/Users/Ramazan/IdeaProjects/com.Batch81POM/belirlenenclasslariçaliştirma.xml" />
+        <item itemvalue="TestNG.C05_ExceliMapeYukleme" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +146,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664281035493</updated>
     </task>
+    <task id="LOCAL-00001" summary="01/10/2022">
+      <created>1664630280203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664630280203</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,5 +166,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="01/10/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="01/10/2022" />
   </component>
 </project>

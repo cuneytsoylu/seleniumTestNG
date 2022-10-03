@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class ReusableMethods {
+public class ReusableMethodsExcel {
     // Bir method olusturalim
     // dosya yolu, sayfa ismi ve satir , hucre indexini verince hucre bilgisini dondursun.
 
