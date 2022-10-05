@@ -4,22 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8d066ad-805c-4765-ad64-97df27a3dfe7" name="Changes" comment="01/10/2022">
-      <change afterPath="$PROJECT_DIR$/src/belirlenenGruplariCalistirma.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belirlenenPackageleriCalistirma.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belirlenenclasslariçaliştirma.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belirliTestMethodlariniCalistirma.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C04_SatirSayisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C05_ExceliMapeYukleme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C06_WriteExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day21/C01_WindowHandleReusableMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tumPacageleriCalistirma.xml" afterDir="false" />
+    <list default="true" id="d8d066ad-805c-4765-ad64-97df27a3dfe7" name="Changes" comment="03/10/2022">
+      <change afterPath="$PROJECT_DIR$/src/raporCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day22/C01_TestNGReports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day22/C02_FacebookTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseRapor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day18/C02_WebTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day18/C02_WebTables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20/C03_ReusableRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C03_ReusableRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day20/ReusableMethodsExcel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day18/C02_WebTables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day18/C02_WebTables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belirlenenclasslariçaliştirma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/belirlenenclasslariçaliştirma.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +54,24 @@
       <recent name="C:\Users\Ramazan\IdeaProjects\com.Batch81POM\src" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C01_WindowHandleReusableMethods">
+  <component name="RunManager" selected="TestNG.C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/raporCalistirma.xml">
+    <configuration name="C01_TestNGReports" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch81POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day22" />
+      <option name="MAIN_CLASS_NAME" value="tests.day22.C01_TestNGReports" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C01_WindowHandleReusableMethods" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch81POM" />
       <extension name="coverage">
@@ -74,33 +83,6 @@
       <option name="PACKAGE_NAME" value="tests.day21" />
       <option name="MAIN_CLASS_NAME" value="tests.day21.C01_WindowHandleReusableMethods" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C05_ExceliMapeYukleme" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch81POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day20" />
-      <option name="MAIN_CLASS_NAME" value="tests.day20.C05_ExceliMapeYukleme" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/Ramazan/IdeaProjects/com.Batch81POM/belirlenenclasslariçaliştirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch81POM" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/belirlenenclasslariçaliştirma.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -127,13 +109,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/raporCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch81POM" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/raporCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/raporCalistirma.xml" />
+        <item itemvalue="TestNG.C01_TestNGReports" />
         <item itemvalue="TestNG.C01_WindowHandleReusableMethods" />
         <item itemvalue="TestNG.C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/belirliTestMethodlariniCalistirma.xml" />
         <item itemvalue="TestNG.C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/belirlenenPackageleriCalistirma.xml" />
-        <item itemvalue="TestNG.C:/Users/Ramazan/IdeaProjects/com.Batch81POM/belirlenenclasslariçaliştirma.xml" />
-        <item itemvalue="TestNG.C05_ExceliMapeYukleme" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664630280203</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="03/10/2022">
+      <created>1664806267564</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664806267564</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +168,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="01/10/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="01/10/2022" />
+    <MESSAGE value="03/10/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="03/10/2022" />
   </component>
 </project>
