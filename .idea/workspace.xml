@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8d066ad-805c-4765-ad64-97df27a3dfe7" name="Changes" comment="03/10/2022">
-      <change afterPath="$PROJECT_DIR$/src/raporCalistirma.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day22/C01_TestNGReports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day22/C02_FacebookTesti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseRapor.java" afterDir="false" />
+    <list default="true" id="d8d066ad-805c-4765-ad64-97df27a3dfe7" name="Changes" comment="05/10/2022">
+      <change afterPath="$PROJECT_DIR$/src/paralelClassCalistirma.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belirlenenclasslariçaliştirma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/belirlenenclasslariçaliştirma.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +49,7 @@
       <recent name="C:\Users\Ramazan\IdeaProjects\com.Batch81POM\src" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/raporCalistirma.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/paralelClassCalistirma.xml">
     <configuration name="C01_TestNGReports" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch81POM" />
       <extension name="coverage">
@@ -89,9 +84,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/belirlenenPackageleriCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/belirliTestMethodlariniCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch81POM" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirlenenPackageleriCalistirma.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirliTestMethodlariniCalistirma.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -99,9 +94,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/belirliTestMethodlariniCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/paralelClassCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch81POM" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirliTestMethodlariniCalistirma.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/paralelClassCalistirma.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -121,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/paralelClassCalistirma.xml" />
         <item itemvalue="TestNG.C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/raporCalistirma.xml" />
         <item itemvalue="TestNG.C01_TestNGReports" />
         <item itemvalue="TestNG.C01_WindowHandleReusableMethods" />
         <item itemvalue="TestNG.C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/belirliTestMethodlariniCalistirma.xml" />
-        <item itemvalue="TestNG.C:/Users/Ramazan/IdeaProjects/com.Batch81POM/src/belirlenenPackageleriCalistirma.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664806267564</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="05/10/2022">
+      <created>1664977563199</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664977563199</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +171,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="01/10/2022" />
     <MESSAGE value="03/10/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="03/10/2022" />
+    <MESSAGE value="05/10/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="05/10/2022" />
   </component>
 </project>
